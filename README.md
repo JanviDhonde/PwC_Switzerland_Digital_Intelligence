@@ -1,6 +1,6 @@
 # PwC Switzerland Digital Intelligence Job Simulation  
 **PwC_Switzerland_Digital_Intelligence:** <br>
-Completed PwC Switzerland's Digital Intelligence Job Simulation on Forage, where I built Python classification models, analyzed feature importance, and forecasted future cash flows. Developed a portfolio valuation document and analyzed medical data. Gained skills in data analysis, classification modeling, and business forecasting.
+Completed PwC Switzerland's Digital Intelligence Job Simulation on Forage, where I built Python classification models, analyzed feature importance, and forecasted future cash flows. Developed a portfolio valuation document and analyzed medical data. Gained skills in data analysis, classification modeling, and business forecasting..
 
 **Repository Overview:**  
 This repository showcases my experience in PwC Switzerland's Digital Intelligence job simulation on the Forage platform. In this simulation, I worked on analyzing large datasets, building Python classification models, and evaluating key business metrics. I also explored forecasting future cash flows, analyzing medical data, and collaborated on data strategy proposals to address business challenges.
